@@ -35,3 +35,9 @@ Es geht darum die To Do Liste ausführlich zu testen und Fehler zu suchen.
 5. Unten rechts sehen Sie ausserdem auch noch einen Log out Button um wieder auf die Login Seite zu gelangen.
 
 Am Schluss sollte die To Do List korrekt laufen. Man sollte Task erstellen, löschen und editieren.
+
+Delete Button
+Beschreibung:
+Der Delete Button ist dafür da, um Tasks zu löschen.
+1. Klicken Sie dazu einfach bei der entsprechenden Task auf löschen.
+2. Nun ist die Aufgabe gelöscht.
