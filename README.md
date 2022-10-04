@@ -23,6 +23,8 @@ Es geht darum das Login zu starten und zu testen.
 5. Falls die Daten übereinstimmen sind Sie eingeloggt.
 6. Falls Sie ein falsches Passwort oder E-Mail eingeben haben wird Ihnen angezeigt was Sie falsch eingegeben haben.
 
+Am Schluss sollten Sie in die To Do App Umgebung eingeloggt werden und diese auch bedienen können.
+
 To Do List:
 Beschreibung:
 Es geht darum die To Do Liste ausführlich zu testen und Fehler zu suchen.
@@ -31,3 +33,5 @@ Es geht darum die To Do Liste ausführlich zu testen und Fehler zu suchen.
 3. Sie können rechts auf Edit klicken um die Task zu editieren.
 4. Sie können ebenfalls rechts auf delete klicken um die Task zu löschen.
 5. Unten rechts sehen Sie ausserdem auch noch einen Log out Button um wieder auf die Login Seite zu gelangen.
+
+Am Schluss sollte die To Do List korrekt laufen. Man sollte Task erstellen, löschen und editieren.
