@@ -3,7 +3,7 @@ Modul 294 Projekt von Kai Wenninger
 
 WICHTIGES ZU BEACHTEN
 
-Laden Sie sich das Projekt in Form einer ZIP-Datei herunter. Gleichzeitig müssen Sie das Backend das wir am letzten Tag bekommen haben starten, ansonsten läfut die Applikation nicht.
+Laden Sie sich das Projekt in Form einer ZIP-Datei herunter. Gleichzeitig müssen Sie das Backend das wir am letzten Tag bekommen haben starten, ansonsten läuft die Applikation nicht.
 
 Sobald Sie das Projekt mit Ihrer IDEA geöffnet haben, starten sie das Login.html file.
 
@@ -32,7 +32,7 @@ Es geht darum die To Do Liste ausführlich zu testen und Fehler zu suchen.
 2. Nun sehen Sie die Tasks in der Liste.
 3. Sie können rechts auf Edit klicken um die Task zu editieren.
 4. Sie können ebenfalls rechts auf delete klicken um die Task zu löschen.
-5. Unten rechts sehen Sie ausserdem auch noch einen Log out Button um wieder auf die Login Seite zu gelangen.
+5. Unten links sehen Sie ausserdem auch noch einen Log out Button um wieder auf die Login Seite zu gelangen.
 
 Am Schluss sollte die To Do List korrekt laufen. Man sollte Task erstellen, löschen und editieren.
 
