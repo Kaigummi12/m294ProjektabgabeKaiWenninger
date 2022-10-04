@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" />
+    <title>Login</title>
+    <link rel="stylesheet" href="login.css" />
+    <script defer src="login.js"></script>
+  </head>
+
+  <body id="loginBackground">
+    <main id="main-holder">
+      <h1 id="login-header">Login</h1>
+
+      <form onsubmit="submitForm(event)" id="login-form">
+        <input
+          type="email"
+          required
+          name="username"
+          id="email"
+          class="login-form-field"
+          placeholder="username"
+        />
+        <input
+          type="password"
+          required
+          name="password"
+          id="password"
+          class="login-form-field"
+          placeholder="password"
+        />
+        <div id="response"></div>
+        <input type="submit" value="Login" id="login-form-submit" />
+      </form>
+    </main>
+  </body>
+</html>
