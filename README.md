@@ -14,6 +14,8 @@ Sobald Sie eingeloggt sind, sollten Sie eine To Do Liste sehen. Auf dieser kann 
 
 Tests:
 Login:
+Beschreibung:
+Es geht darum das Login zu starten und zu testen.
 1. Öffnen Sie Ihren Browser und entpacken Sie die Datei.
 2. Starten Sie das Backend und öffnen Sie die Login.html Seite (unten rechts auf live klicken)
 3. Nun öffnet sich Ihren Browser und Sie sollten eine Login page sehen.
@@ -22,6 +24,8 @@ Login:
 6. Falls Sie ein falsches Passwort oder E-Mail eingeben haben wird Ihnen angezeigt was Sie falsch eingegeben haben.
 
 To Do List:
+Beschreibung:
+Es geht darum die To Do Liste ausführlich zu testen und Fehler zu suchen.
 1. Erstellen Sie oben links im Input Feld eine neue Task.
 2. Nun sehen Sie die Tasks in der Liste.
 3. Sie können rechts auf Edit klicken um die Task zu editieren.
