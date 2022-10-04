@@ -7,7 +7,7 @@ Laden Sie sich das Projekt in Form einer ZIP-Datei herunter. Gleichzeitig müsse
 
 Sobald Sie das Projekt mit Ihrer IDEA geöffnet haben, starten sie das Login.html file.
 
-Nun sollte Ihnen eine Login Fenster angezeigt werden in dem Sie sich mit der E-Mai: info@example.com und dem Passwort: 294 einloggen können.
+Nun sollte Ihnen eine Login Fenster angezeigt werden in dem Sie sich mit der E-Mai: info@example.com und dem Passwort: m294 einloggen können.
 
 Sobald Sie eingeloggt sind, sollten Sie eine To Do Liste sehen. Auf dieser kann man Aufgaben erfassen, sie abhaken und auch löschen. Die Daten werden aus dem Backend geholt.
 
@@ -16,7 +16,7 @@ Tests:
 Zum Login:
 1. Öffnen Sie die Login.html Seite 
 2. Geben Sie das richtige Passwort und E-Mail ein.
-3. Falls die Daten überein stimmen sind Sie eingeloggt.
+3. Falls die Daten übereinstimmen sind Sie eingeloggt.
 4. Falls Sie ein falsches Passwort oder E-Mail eingeben haben wird Ihnen angezeigt was Sie falsch eingegeben haben.
 
 To Do List:
@@ -24,3 +24,4 @@ To Do List:
 2. Nun sehen Sie die Task in der Liste angezeigt.
 3. Sie können rechts auf Edit klicken um die Task zu editieren.
 4. Sie können ebenfalls rechts auf delete klicken um die Task zu löschen.
+5. Unten rechts sehen Sie ausserdem auch noch einen Log out Button.
