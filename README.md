@@ -13,15 +13,17 @@ Sobald Sie eingeloggt sind, sollten Sie eine To Do Liste sehen. Auf dieser kann 
 
 
 Tests:
-Zum Login:
-1. Öffnen Sie die Login.html Seite 
-2. Geben Sie das richtige Passwort und E-Mail ein.
-3. Falls die Daten übereinstimmen sind Sie eingeloggt.
-4. Falls Sie ein falsches Passwort oder E-Mail eingeben haben wird Ihnen angezeigt was Sie falsch eingegeben haben.
+Login:
+1. Öffnen Sie Ihren Browser und entpacken Sie die Datei.
+2. Starten Sie das Backend und öffnen Sie die Login.html Seite (unten rechts auf live klicken)
+3. Nun öffnet sich Ihren Browser und Sie sollten eine Login page sehen.
+4. Geben Sie das richtige Passwort und E-Mail ein.
+5. Falls die Daten übereinstimmen sind Sie eingeloggt.
+6. Falls Sie ein falsches Passwort oder E-Mail eingeben haben wird Ihnen angezeigt was Sie falsch eingegeben haben.
 
 To Do List:
 1. Erstellen Sie oben links im Input Feld eine neue Task.
-2. Nun sehen Sie die Task in der Liste angezeigt.
+2. Nun sehen Sie die Tasks in der Liste.
 3. Sie können rechts auf Edit klicken um die Task zu editieren.
 4. Sie können ebenfalls rechts auf delete klicken um die Task zu löschen.
-5. Unten rechts sehen Sie ausserdem auch noch einen Log out Button.
+5. Unten rechts sehen Sie ausserdem auch noch einen Log out Button um wieder auf die Login Seite zu gelangen.
